@@ -5,6 +5,7 @@
 /// The main function runs when our program starts
 fn main() {
     print("Hello, world!");
+    print("Well well well!");
     print("Goodbye, world!");
 }
 
