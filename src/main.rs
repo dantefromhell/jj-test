@@ -6,6 +6,7 @@
 fn main() {
     print("Hello, world!");
     print("Well well well!");
+    print("You are still here!");
     print("Goodbye, world!");
 }
 
