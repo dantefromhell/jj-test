@@ -2,10 +2,11 @@
 /// 
 /// This is the best implementation of this program to ever exist.
 
-/// The main function runs when our program starts
+/// The main function when our program
 fn main() {
     print("Hello, world!");
     print("Well well well!");
+    print("You are still here!");
     print("Goodbye, world!");
 }
 
